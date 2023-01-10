@@ -6,6 +6,7 @@ resources:
   - mlops-demo-iris-inference-service.yaml
   - mlops-demo-iris-message-generator.yaml
   - mlops-demo-kafka.yaml
+  - mlops-demo-grafana.yaml
   - mlops-demo-kafdrop.yaml
   # - mlops-demo-mlflow-server.yaml
   - mlops-demo-odh.yaml
